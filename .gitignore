@@ -111,3 +111,6 @@ venv.bak/
 .mypy_cache/
 .env/
 __pycache__/
+
+# extra
+.virtual_documents
